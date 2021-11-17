@@ -1,0 +1,4 @@
+Git status;
+Git add . ou Git add - A;
+Git commit - m "comentario sobre o que vai ser comitado";
+Git Push : git push origin main (para passar as alterações para o servidor remoto).
